@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/binarytree.dir/main.cpp.o CMakeFiles/binarytree.dir/main2.cpp.o CMakeFiles/binarytree.dir/Test.cpp.o CMakeFiles/binarytree.dir/TestCounter.cpp.o -o binarytree 
