@@ -37,16 +37,6 @@ TEST_CASE("String tree"){
     // Sense having 2 nodes with the same data - this tests come to check whether the Node was
     // added to the propitiate Node
 
-
-    /*
-     *
-     *
-     *
-     *
-     *
-     *
-     */
-
 }
 
 TEST_CASE("Int tree"){
